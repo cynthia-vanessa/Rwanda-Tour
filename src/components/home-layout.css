@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.home-container{
+    
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("https://images.pexels.com/photos/3996433/pexels-photo-3996433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+background-size: cover;
+
+}
+.aboutus{
+
+    width: 50%;
+    height: 80vh;
+    border:  rgba(65, 65, 190, 0.623);
+    padding:50px ;
+    background-color: rgba(242, 242, 247, 0.226);
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.aboutus h2{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    margin-top:3%;
+}
+.aboutus p{
+font-size:150% ;
+margin-top: 2%;
+color: black;
+text-align: center;
+
+}
+.aboutus2{
+width: 90%;
+height: 50vh;
+margin-top: 1%;
+background-size: cover;
+margin-left: 3%;
+transition:transform 10s;
+    background-image: url(https://www.explorerwandatours.com/wp-content/uploads/2020/01/Adventure-Activities-in-Rwanda.jpg);
+}
+.contactus{
+    background-color:rgba(255, 255, 255, 0.288);
+    width: 40%;
+    height: 80vh;
+    margin-left: 0px;
+    border-radius: 30px;
+    margin-top: 18px;
+    color: black;
+}
+
+
+.contactus h2{
+margin-left: 5px;
+color:black;
+}
+.contactus h3{
+margin-left: 0px;
+color:black;
+font-size: 25px;
+}
+.contactus h4{
+    margin-left: 0px;
+    color: black;
+    font-size: 25px;
+}
+.contactus h5{
+color:black;
+margin-top: 50px;
+text-align: center;
+font-size: 30px;
+}
+.contactus h6{
+    margin-top: 70px;
+}
+.contactus2{
+    width: 70%;
+    height: 80vh;
+    background-color:rgba(255, 255, 255, 0.322);
+    margin-left: 100px;
+    margin-top: 18px;
+    border-radius: 30px;
+}
+.display{
+    display: flex;
+}    
+.contactus2 h1{
+color: black;
+}
+.contactus3 h2{
+    margin-left: 250px;
+    font-size: 30px;
+}
+.contactus3 h3{
+    font-size: 35px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.contactus3 h4{
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.contactus3 h5{
+font-size: 40px;
+margin-left: 220px;
+margin-top: 35px;
+
+}
+.contactus3 h6{
+    font-size: 30px;
+    margin-left: 150px;
+    margin-top:20px;
+}
+.dashboardcontainer{
+    width:50%;
+    height:50vh;
+    background-color:red;
+}
+

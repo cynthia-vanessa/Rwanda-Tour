@@ -1,0 +1,44 @@
+.header-div{
+/* height:20vh; */
+width: 100%;
+/* background-color: rgba(246, 252, 251, 0.808; */
+box-shadow: 0px 0px 0 px rgba(255, 255, 255, 0.788);
+background-color: rgba(65, 65, 190, 0.623);
+}
+.logo img{
+padding-top: 0px;
+padding:10px;
+height: 15vh;
+width: 150px;
+/* text-align:left; */
+}
+.Navbar{
+height: 30px;
+width: 70%;
+float: right;
+margin-left: 40%;
+padding-top: 2px;
+font-size: 15px;
+text-decoration: none;
+display: flex;
+margin-bottom: -20%;
+margin-top: -5%;
+/* background-color: beige; */
+color:rgb(214, 161, 161);
+}
+.Navbar a{
+    height: 30vh;
+    width: 100%;
+color: white;
+/* background-color: azure; */
+
+
+
+
+
+
+
+}
+
+
+

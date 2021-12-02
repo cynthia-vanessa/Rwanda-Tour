@@ -1,0 +1,47 @@
+[
+    {
+      "title": " Nyungwe Park",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 50,
+      "available": 20,
+      "images": ["", ""],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2010",
+      "price": 300,
+      "phone": "+250 788 788 788"
+    },
+  
+    {
+      "title": " Muhazi Lac",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 50,
+      "available": 20,
+      "images": ["", ""],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2010",
+      "price": 300,
+      "phone": "+250 788 788 788"
+    },
+    {
+      "title": " Gako Forest",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 80,
+      "available": 30,
+      "images": ["", ""],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2010",
+      "price": 300,
+      "phone": "+250 788 788 788"
+    },
+    {
+      "title": " Akagera National Park",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 40,
+      "available": 20,
+      "images": ["", ""],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2010",
+      "price": 300,
+      "phone": "+250 788 788 788"
+    }
+  ]
