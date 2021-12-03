@@ -15,4 +15,23 @@
 color:white;
 font-size: 50px;
 }
-
+.button-div{
+    background-color: white;
+    width: 30%;
+    height: 40vh;
+    margin-left: 65%;
+    border-radius: 20px;
+}
+.button-div button{
+    margin-top: 8%;
+    margin-left: 37%;
+    font-size: 25px;
+    border-radius: 13px;
+background-color: black;
+color: white;
+}
+.button-div p{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}

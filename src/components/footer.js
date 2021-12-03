@@ -25,12 +25,14 @@ return(
 <h4><a href="/gallery">Gallery</a></h4>
 
 <h5><a href="/signup">Sign up</a></h5>
+<p>We Follow Back!</p>
 <div className="icons1">
 <div className="icons">
 <TwitterOutlined />
 
 </div>
 <div className="icons2">
+   
    <InstagramOutlined/>
 </div>
 <div className="icons3">
